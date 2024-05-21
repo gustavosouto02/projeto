@@ -27,11 +27,10 @@ Os usuários podem preencher um formulário com seu nome, email e mensagem.
 
 ## Deploy
 
-Para fazer o deploy desse projeto rode
+Para fazer o deploy desse projeto rode no seu navegador:
 
-```bash
-  npm run deploy
-```
+link temporário:
+https://mariofix.netlify.app/
 
 
 ## Aprendizados
