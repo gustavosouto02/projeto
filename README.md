@@ -47,3 +47,6 @@ Aprendi a integrar o formulário de contato com um serviço de backend (Formcarr
 #### Boas Práticas de Desenvolvimento Web: 
 Aprofundei meu conhecimento em boas práticas de desenvolvimento web, incluindo a organização de arquivos, a nomenclatura de classes CSS e a estruturação de scripts JavaScript.
 
+## Contribuições
+Contribuições são bem-vindas! Se você tiver alguma sugestão ou encontrar algum bug, por favor, abra uma issue ou envie um pull request.
+
