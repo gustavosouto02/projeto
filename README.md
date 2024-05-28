@@ -30,7 +30,7 @@ Os usuários podem preencher um formulário com seu nome, email e mensagem.
 Para fazer o deploy desse projeto rode no seu navegador:
 
 link temporário:
-[https://mariofix.netlify.app/](https://gustavosouto02.github.io/projeto/)
+https://gustavosouto02.github.io/projeto/
 
 
 ## Aprendizados
